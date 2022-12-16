@@ -8,4 +8,4 @@ npm install
 npm start
 ```
 
-See this [post](https://www.robimoller.com/blog/article/2022/06/minimal-react-starter-----for-beginners) for a complete write up on what this is.
+See this [post](https://www.robimoller.com/blog/article/2022/06/minimal-react-starter-for-beginners) for a complete write up on what this is.
